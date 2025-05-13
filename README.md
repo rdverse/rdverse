@@ -18,6 +18,7 @@ My research work looked at developing **AI models** to tackle six different scie
 
 I have worked as an intern at several industry leaders like **AMD**, **Intel**, **Argonne National Lab**, and collaborated with **Spirit AeroSystems**, and several **Academic Research Labs** on cutting-edge research and engineering projects.
 
+
 ## 🔎 What I'm Exploring Lately
 🌅 **During the day**
 - Cycle-accurate simulation for next-gen AI accelerators
@@ -29,10 +30,16 @@ I have worked as an intern at several industry leaders like **AMD**, **Intel**, 
 
 ---
 
-## 📊 Weekly Activity
+<details>
+<summary><b>🤝 Connect With Me</b></summary>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- [LinkedIn](https://www.linkedin.com/in/devesh-reddy/)
+- [Google Scholar](https://scholar.google.com/citations?user=ieIjVEQAAAAJ)
+- [Email](mailto:dseethi@niu.com)
+- [GitHub](https://github.com/rdverse)
+
+</details>
+
 ---
 
 ## 📂 Technologies I worked with
@@ -114,28 +121,21 @@ Beyond this, I had an electronics and communications engineering background and 
 ---
 
 
-<details>
-<summary><b>🤝 Connect With Me</b></summary>
-
-- [LinkedIn](https://www.linkedin.com/in/devesh-reddy/)
-- [Google Scholar](https://scholar.google.com/citations?user=ieIjVEQAAAAJ)
-- [Email](mailto:dseethi@niu.com)
-- [GitHub](https://github.com/rdverse)
-
-</details>
-
----
-
 ## 📈 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdverse&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdverse&layout=compact&theme=dark&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rdverse&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdverse&layout=compact&theme=dark&hide_border=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=rdverse&theme=dark&hide_border=true" /></td>
+  </tr>
+</table>
 ---
 
+## 📊 Weekly Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 
 ## ⚡ Fun Fact
 
