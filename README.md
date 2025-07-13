@@ -142,8 +142,7 @@ Beyond this, I had an electronics and communications engineering background and 
 
 ```text
 💬 Programming Languages: 
-YAML                     22 mins             ██████████████████████░░░   86.27 % 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+No Activity Tracked This Week
 ```
 
 
