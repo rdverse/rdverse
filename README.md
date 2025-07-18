@@ -142,7 +142,9 @@ Beyond this, I had an electronics and communications engineering background and 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    5 mins              ████████████████████████░   96.45 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 
