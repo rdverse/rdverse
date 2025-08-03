@@ -142,7 +142,7 @@ Beyond this, I had an electronics and communications engineering background and 
 
 ```text
 💬 Programming Languages: 
-C++                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
