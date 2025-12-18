@@ -142,7 +142,8 @@ Beyond this, I had an electronics and communications engineering background and 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 mins              ████████████████████████░   96.81 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 
 
