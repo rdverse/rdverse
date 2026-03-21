@@ -142,11 +142,10 @@ Beyond this, I had an electronics and communications engineering background and 
 
 ```text
 💬 Programming Languages: 
-Python                   10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-BibTeX                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-TeX                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-PureBasic                7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+BibTeX                   8 mins              ██████████░░░░░░░░░░░░░░░   39.13 % 
+TeX                      6 mins              ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Bash                     5 mins              ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+PureBasic                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 
